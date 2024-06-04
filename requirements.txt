@@ -1,0 +1,5 @@
+speechrecognition
+pydub
+googletrans
+# Incase, AttributeError: 'NoneType' object has no attribute 'group'
+# install googletrans==3.1.0a0+
